@@ -40,11 +40,11 @@
 
 | 服务 | 线路 / IP 侧重点 | AI 工具 | 4K / 流媒体 | 价格感受 | 更适合谁 | 我的评价 | 官网优惠 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| <img src="./img/ipequal-icon.webp" width="28" alt=""> **ipequal** | **CN2 GIA + 独享住宅 IP** | **很适合** | 适合 | 偏高 | AI 重度用户、在意 IP 质量 | **IP 质量路线最突出** | **[访问官网 · 立即优惠](https://www.ipequal.com/?ref=9a2c5456c5)** |
-| <img src="./img/tag-icon.webp" width="28" alt=""> **TAG** | **多地区出口 + 综合型线路** | **很适合** | **很适合** | 中高 | 经常切换地区、AI + 影音都要 | **综合能力很均衡** | **[访问官网 · 立即优惠](https://user.tagss14.pro/#/auth/ywBm89WI)** |
-| <img src="./img/ssrdog-icon.webp" width="28" alt=""> **SSRDOG** | **专线网络 + 多客户端** | 适合 | **很适合** | 中高 | 重视稳定、又不想折腾配置 | **长期使用省心型** | **[访问官网 · 立即优惠](https://st2.hosbb.com/#/register?code=j8tF9pBh)** |
-| <img src="./img/lightning-cat-icon.webp" width="28" alt=""> **闪电猫** | **综合线路 + 日常连接体验** | **很适合** | **很适合** | 适中 | 日常上网、AI、影音全都要 | **比较均衡，容易选** | **[访问官网 · 立即优惠](https://appinv01.sc-vipaff.cc/auth/register?code=156d8e2b)** |
-| <img src="./img/fat-cat-icon.webp" width="28" alt=""> **肥猫云** | **大带宽专线 + 持续传输** | 适合 | **很适合** | 适中 | 4K、大流量、下载比较多 | **影音与大流量更有优势** | **[访问官网 · 立即优惠](https://inv03.fcweba.cc/register?aff=CxLWXDX5)** |
+| <img src="./img/ipequal-icon.webp" width="28" alt=""> **ipequal** | **CN2 GIA + 独享住宅 IP** | **很适合** | 适合 | 偏高 | AI 重度用户、在意 IP 质量 | **IP 质量路线最突出** | **[访问官网 · 立即优惠](https://www.fufw.com/go/ipequal)** |
+| <img src="./img/tag-icon.webp" width="28" alt=""> **TAG** | **多地区出口 + 综合型线路** | **很适合** | **很适合** | 中高 | 经常切换地区、AI + 影音都要 | **综合能力很均衡** | **[访问官网 · 立即优惠](https://www.fufw.com/go/tag)** |
+| <img src="./img/ssrdog-icon.webp" width="28" alt=""> **SSRDOG** | **专线网络 + 多客户端** | 适合 | **很适合** | 中高 | 重视稳定、又不想折腾配置 | **长期使用省心型** | **[访问官网 · 立即优惠](https://www.fufw.com/go/ssrdog)** |
+| <img src="./img/lightning-cat-icon.webp" width="28" alt=""> **闪电猫** | **综合线路 + 日常连接体验** | **很适合** | **很适合** | 适中 | 日常上网、AI、影音全都要 | **比较均衡，容易选** | **[访问官网 · 立即优惠](https://www.fufw.com/go/lightning-cat)** |
+| <img src="./img/fat-cat-icon.webp" width="28" alt=""> **肥猫云** | **大带宽专线 + 持续传输** | 适合 | **很适合** | 适中 | 4K、大流量、下载比较多 | **影音与大流量更有优势** | **[访问官网 · 立即优惠](https://www.fufw.com/go/fat-cat)** |
 
 ### 一句话选购
 
@@ -79,7 +79,7 @@
 **缺点也很明确：价格不会是最低的。**  
 如果你只想偶尔看看网页，它可能有点浪费；但如果你每天都靠 AI 工具工作，我更愿意为 **稳定 + IP 质量** 多付一点。
 
-### 👉 [访问官网 · 立即优惠](https://www.ipequal.com/?ref=9a2c5456c5)
+### 👉 [访问官网 · 立即优惠](https://www.fufw.com/go/ipequal)
 
 ---
 
@@ -100,7 +100,7 @@ TAG 给我的感觉更像是 **综合型选手**。如果你不是只盯着美�
 
 如果你不知道自己到底需要哪一种线路，**TAG 这种综合型方案反而比较省心**。
 
-### 👉 [访问官网 · 立即优惠](https://user.tagss14.pro/#/auth/ywBm89WI)
+### 👉 [访问官网 · 立即优惠](https://www.fufw.com/go/tag)
 
 ---
 
@@ -123,7 +123,7 @@ SSRDOG 的特点比较好理解：**把重点放在专线网络和实际使用�
 
 如果你不喜欢折腾复杂配置，想要 **开了就用、长期稳定**，这家可以重点看看。
 
-### 👉 [访问官网 · 立即优惠](https://st2.hosbb.com/#/register?code=j8tF9pBh)
+### 👉 [访问官网 · 立即优惠](https://www.fufw.com/go/ssrdog)
 
 ---
 
@@ -146,7 +146,7 @@ SSRDOG 的特点比较好理解：**把重点放在专线网络和实际使用�
 
 如果你不想研究太多专业名词，只想找一个 **综合体验比较顺手** 的，可以把它放进候选。
 
-### 👉 [访问官网 · 立即优惠](https://appinv01.sc-vipaff.cc/auth/register?code=156d8e2b)
+### 👉 [访问官网 · 立即优惠](https://www.fufw.com/go/lightning-cat)
 
 ---
 
@@ -169,7 +169,7 @@ SSRDOG 的特点比较好理解：**把重点放在专线网络和实际使用�
 
 如果你的重点不是独享住宅 IP，而是 **流量大、视频多、下载多**，这类方案会更合适。
 
-### 👉 [访问官网 · 立即优惠](https://inv03.fcweba.cc/register?aff=CxLWXDX5)
+### 👉 [访问官网 · 立即优惠](https://www.fufw.com/go/fat-cat)
 
 ---
 
